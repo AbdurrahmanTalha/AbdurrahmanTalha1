@@ -1,19 +1,9 @@
-## Thanks for popping by :gun:
+## Hiya!
 
-I am Dolan, a software developer. I am a tech enthusiast & an open-source advocate. I am the author of `docx`
+I am Talha, a software developer, tech enthusiast, problem solver, and learner!
 
-[![Linkedin Badge](https://img.shields.io/badge/-dolan1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dolan1/)](https://www.linkedin.com/in/dolan1/)
-[![Instagram Badge](https://img.shields.io/badge/-plantingtheegg-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/plantingtheegg/)](https://instagram.com/plantingtheegg)
-[![Medium Badge](https://img.shields.io/badge/-@dolanmiu-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dolanmiu/)](https://medium.com/@dolanmiu)
-[![CodersRank](https://img.shields.io/badge/-dolanmiu-67A4AC?style=flat-square&labelColor=ffffff&logo=codersrank&link=https://profile.codersrank.io/user/dolanmiu)](https://profile.codersrank.io/user/dolanmiu)
-
-
-## :keyboard: IDE and Set-up
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-E34A86?style=flat-square&logo=intellij-idea)
-![Fork](https://img.shields.io/badge/-Fork-1ba3ef?style=flat-square&logo=git&logoColor=white)
-
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artalha/)](https://www.linkedin.com/in/artalha/)
+[![Facebook]([https://img.shields.io/badge/-dolanmiu-67A4AC?style=flat-square&labelColor=ffffff&logo=codersrank&link=https://profile.codersrank.io/user/dolanmiu](https://img.shields.io/badge/-Facebook-67A4AC?style=flat-square&labelColor=ffffff&logo=codersrank&link=https://www.facebook.com/profile.php?id=100089366829069))](https://www.facebook.com/profile.php?id=100089366829069)
 
 ## ⚡ Technologies
 
@@ -27,38 +17,16 @@ I am Dolan, a software developer. I am a tech enthusiast & an open-source advoca
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css&labelColor=F7FAFC)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=Arduino)
 
 ## :chart_with_upwards_trend:	 Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dolanmiu&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AbdurrahmanTalha&show&icons=true)
 
 ### 👨‍💻 LeetCode
 
-[![LeetCode Stats](https://leetcode.card.workers.dev/dolanmiu?theme=auto&font=baloo&extension=activity&cache=0)](https://leetcode.com/dolanmiu/)
-
-<!--
-### 🏆 CodersRank
-
-<img width="400" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dolanmiu&branding=false" href="https://profile.codersrank.io/user/dolanmiu" target="_blank" />
--->
-
-### <img width="25" src="https://www.shareicon.net/download/2016/07/09/118723_stack.ico" /> Stack Overflow
-
-<a href="https://stackoverflow.com/users/3481582/dolan"><img src="https://stackoverflow.com/users/flair/3481582.png" width="208" height="58" alt="profile for Dolan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dolan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dolanmiu.dolanmiu)
-
-
-
+[![LeetCode Stats](https://leetcode.card.workers.dev/AbdurrahmanTalha331?theme=auto&font=baloo&extension=activity&cache=0)](https://leetcode.com/AbdurrahmanTalha331/)
